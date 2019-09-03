@@ -1,27 +1,15 @@
-# Oxford
+# Oxford Dictionary App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+<p align="center">
+  <img src="https://github.com/aldersjus/oxford-dictionary-angular/blob/master/src/assets/github-image.png" width="250"/>
+</p>
 
-## Development server
+This project connects to the Oxford English dictionary. You can search base words eg: have(NOT having), it is a simple
+Angular app to understand how to use Services for communicating between components(siblings) and how to connect to a
+remote server. It has basic functionality. However, it is far from a finished app.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Getting Started with Angular
 
-## Code scaffolding
+Resources to get you started if this is your first Agular project:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+  https://angular.io
