@@ -1,7 +1,7 @@
 # Oxford Dictionary App
 
 <p align="center">
-  <img src="https://github.com/aldersjus/oxford-dictionary-angular/blob/master/src/assets/github-image.png" width="250"/>
+  <img src="https://github.com/aldersjus/oxford-dictionary-angular/blob/master/src/assets/github-image.png"/>
 </p>
 
 This project connects to the Oxford English dictionary. You can search base words eg: have(NOT having), it is a simple
