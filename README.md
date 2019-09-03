@@ -1,4 +1,4 @@
-# Oxford Dictionary App
+# Oxford English Dictionary App
 
 <p align="center">
   <img src="https://github.com/aldersjus/oxford-dictionary-angular/blob/master/src/assets/github-image.png"/>
